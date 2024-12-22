@@ -53,7 +53,7 @@ This Java program creates a GUI application to animate the drawing and erasing o
      - If no animation is ongoing, it initializes the drawing process and starts `drawTimer`.
    - When the "Remove Heart" button is pressed:
      - If no animation is ongoing and the heart is drawn, it starts `eraseTimer`.
-   - The "Quit" button terminates the application.
+   - The "Quit" button terminates the application. 
 
 ---
 
